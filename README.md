@@ -1,5 +1,5 @@
 # Velvet-Vogue-E-commerce-Website
-Responsive e-commerce fashion website featuring product catalogs, category filtering, user and admin authentication, shopping cart, and secure checkout. Built for performance and cross-device compatibility using PHP, HTML, CSS, JavaScript, Node.js, and MySQL.
+Responsive e-commerce fashion website featuring product catalogs, category filtering, user and admin authentication, shopping cart, and secure checkout. Built for performance and cross-device compatibility using PHP, HTML, CSS, JavaScript, and MySQL.
 
 <img width="1914" height="867" alt="home2" src="https://github.com/user-attachments/assets/2005880d-029a-4bfc-bca2-e33c19f9cb87" />
 <img width="1920" height="6381" alt="home" src="https://github.com/user-attachments/assets/905353e0-9ce1-4da6-9e69-17f8b983b805" />
